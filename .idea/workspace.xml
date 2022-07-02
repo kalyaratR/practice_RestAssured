@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1972e39d-f82b-40e0-af20-3d7a4ae961ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Project class/Project class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/Project2/Project2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/TestNGProject/TestNGProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/TestNGProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/day1/day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/InterviewPrep/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/InterviewPrep/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/MavenProject/src/test/TestClass123.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/MavenProject/src/test/TestClass123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day10_Task9_4_Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day10_Task9_4_Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Exp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Exp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Practise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Practise_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Practise_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day10_11/Day11_exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12_HomeAnswer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12_HomeAnswer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12_Task1_Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12_Task1_Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12_class_task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day12/Day12_class_task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_Class_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_Class_Exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_Class_Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_Class_Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_Practise_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_Practise_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_answer_Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day13/Day13_answer_Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14Exp_Dar2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14Exp_Dar2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14Exp_DarGon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14Exp_DarGon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14_Exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14_Exp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14_Exp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14_Files.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day14/Day14_Files.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day15/Day15_Database_Sc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day15/Day15_Database_Sc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day15/Day15_Databases_Sc1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day15/Day15_Databases_Sc1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc1_ProductStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc1_ProductStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc2_ProductStore_Refactoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc2_ProductStore_Refactoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc2_ProductStre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc2_ProductStre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc3Task_ProductStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16_Sc3Task_ProductStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16__Sc3_ProductStore_LaptopsAndMonitors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day16/Day16__Sc3_ProductStore_LaptopsAndMonitors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day17/Day17_Exp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day17/Day17_Exp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day17/Day17_Exp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day17/Day17_Exp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day17/Day17_Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day17/Day17_Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_ClassTaks2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_ClassTaks2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_ClassTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_ClassTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_Exp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_Exp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_Homework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_Homework1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day18_Homework2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day_18_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day18/Day_18_Exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day4/Day4_Team5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day4/Day4_Team5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_1Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_1Exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_2Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_2Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_3Assingment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_3Assingment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day5/Day5_Practise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day6/Day6_1Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day6/Day6_1Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day6/Day6_2Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day6/Day6_2Exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day7/Day_7Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day7/Day_7Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day8_Exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day8_Exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day8_Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day8_Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day_8PracticeTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day_8PracticeTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day_8Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day8/Day_8Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Select_exp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Select_exp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task3canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task3canvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_exp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_exp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_exp4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day9_exp4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day_9exp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/Day9/Day_9exp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project class/src/utils/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project class/src/utils/SeleniumUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Project2/src/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Project2/src/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject/src/BasicMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject/src/BasicMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/parallelRun.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/parallelRun.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/src/BasicMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/src/BasicMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/src/SelenuimUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/src/SelenuimUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/BasicMathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/BasicMathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/Day21Task1TestHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/Day21Task1TestHomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/Homework_DataProvider_AnswerDay21Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/Homework_DataProvider_AnswerDay21Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/ParallelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/ParallelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/ReviewDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/ReviewDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/SauceDemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/SauceDemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/SeleniumTest_Exp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/SeleniumTest_Exp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/StringManipulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/test/StringManipulationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/TestNGProject1/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/TestNGProject1/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/interview-prep-test/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/interview-prep-test/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/interview-prep-test/src/test/java/TempClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/interview-prep-test/src/test/java/TempClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/main/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/main/src/main/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/main/src/main/java/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/TestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/data/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/data/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/pages/DashboardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/pages/UserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/pages/UserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/tests/DashboardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/tests/DashboardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/tests/HomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/tests/HomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/tests/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/tests/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/utils/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/utils/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/utils/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/utils/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TApplication-Test/src/test/utils/SeleniumUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TApplication-Test/src/test/utils/SeleniumUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview-prep-testpractse1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interview-prep-testpractse1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/ExcelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview-prep-testpractse1/src/test/uitls/Screenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day3_task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day3_task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day3_task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day4_Task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Day4_Task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/day1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BOHVWb1d1bCR1naPOlj2md6dnE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="get_Post" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="practice_RestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_pratice_API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="class_pratice_API" />
+      <option name="MAIN_CLASS_NAME" value="class_pratice_API.get_Post" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.get_Post" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1972e39d-f82b-40e0-af20-3d7a4ae961ae" name="Changes" comment="" />
+      <created>1656770236935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656770236935</updated>
+    </task>
+    <servers />
+  </component>
+</project>
